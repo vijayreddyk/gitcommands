@@ -4,3 +4,4 @@ third line !!!!!!!!!!!111
 conflict line@@@@@@@@@22
 fifth line -------------
 sixth line
+sixth line conflict
